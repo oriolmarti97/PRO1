@@ -1,0 +1,327 @@
+P1 - Introduction 
+			X64734   Hello and Bye! C++
+			P99182   Promedio C++
+			X54725   Minimum of two integers C++
+			X59678   Minimum of three different integers C++
+			X89070   Sum of the minimum and the maximum of three integers C++
+			P98960   Uppercase and lowercase letters C++
+			P42042   Classification of characters (1) C++
+			P51126   Intervals (1) C++
+			P89265   Intervals (3) C++
+			P92351   Integer division and remainder of an integer number by a natural number C++
+			P70955   How many seconds are they? C++
+			P34279   Add one second C++
+			P37469   Time decomposition (1) C++
+			P66529   Interessos (2) C++
+			P61634   Leap years C++
+			P51352   Elementos C++
+			P82374   Control C102A C++
+			P37297   Control C101A C++
+P2 - First Loops 
+			P37500   First numbers C++
+			P59539   Harmonic numbers (1) C++
+			P59875   Top to bottom C++
+			P97156   Numbers in an interval C++
+			P28754   Reversed number in binary C++
+			P60816   Reversed number in hexadecimal C++
+			P55622   Number of digits (1) C++
+			P74398   Número de cifras C++
+			P29448   Correct dates C++
+			P85370   Interest (1) C++
+			P64976   Control C201B C++
+			P34451   Control C201C C++
+			P65171   Control C202B
+			P27341   Control C202D C++
+			P32046   Control C202F
+			P35547   Easter Sundays C++
+			X32391   Allowance (2)
+			P97969   Counting a's (1) C++
+			P79784   Movements on the ground C++
+			X80452   Stamps
+P3 - More Loops 
+			P79817   Powers C++
+			X08783   How many digits? C++
+			X01646   Sum of digits (2) C++
+			P29973   Triangle C++
+			P32533   Control C202E C++
+			P13623   Chess board (2) C++
+			P19991   Chess board (3) C++
+			X29759   Chess board (4) C++
+			P80660   The sequence of Collatz C++
+			X26853   Rectangles (1) C++
+			X59091   Rectangles (2) C++
+			P61061   Product of digits C++
+			P87323   Rectangles diagonals C++
+			X84338   Related sum of the halves of a number C++
+			X98097   Related odd and even positions C++
+			P96767   Polynomial evaluation (1) C++
+Consolidation 1 --------------  
+			P57315   ABC
+			P12943   Control C202C
+			X71570   Difference of two integers
+			P96589   Control C101C
+			P38614   Control C201A C++
+			P39057   Computing areas
+			P42280   Chess board (1)
+			P48107   Integer division and remainder of two natural numbers
+			P56559   Intervals (2)
+			P67723   Greatest common divisor
+			X93628   Chessboards
+			X26208   Rectangles (3) C++
+			X50286   How many hello?
+			X36722   Exchange rates
+			P58153   Harmonic numbers (2)
+			P72986   Polynomial evaluation (2)
+			P87198   Easy octagons
+			P19724   El campanar de la Torrassa
+			P98577   El campanar de la Torrassa strikes back
+			X65880   Letter or Number? C++
+			X11093   ITERATIVE Write each digit of a number as many times as the digit value plus 1
+			P73501   Increasing pairs C++
+P4 - Functions & Procedures 
+			P38045   Computing square roots and squares C++
+			X04437   Distancia al origen C++
+			P65437   Swap C++
+			X51086   Function for the difference of two integers C++
+			X46340   Function for the sum of the minimum and the maximum of three integers C++
+			P73231   Maximum of four integer numbers C++
+			P58459   Valid dates C++
+			P95401   Function for leap years C++
+			P18777   Day of the week C++
+			P57474   Iterative factorial C++
+			P22654   Time decomposition (2) C++
+			P55722   Iterative number of digits C++
+			P77686   Palindromic numbers C++
+			P34091   Perfect numbers C++
+			X00639   Comparing fractions C++
+			P66559   P0023. Els triangles bufons C++
+			P80097   P0021. El rusc d'abelles C++
+P5 - Recursion 
+			P12509   recursive factorial C++
+			P51222   Recursive number of digits C++
+			P22467   Perfect primes C++
+			P96965   Reduction of digits C++
+			P56549   Changes of base C++
+			P62467   Bars (1) C++
+			P10694   Bars (3) C++
+			P20006   Prefixed expression C++
+			X50141   Function to fatten numbers C++
+			P58819   Function to fatten numbers C++
+			P26041   Reversing a list of words (1) C++
+			P52926   Girant una llista de paraules (2) C++
+			P38877   Girant una llista de paraules (4) C++
+			P89336   Girant una llista de paraules (6) C++
+			P71398   Procediment per al dígit màxim i mínim
+			P57666   P0015. Format of the numbers
+P6 - Sequences 
+			P20262   Maximum sums C++
+			P84735   Smallest multiple C++
+			P75149   Looking for an a C++
+			P87910   Control C302F C++
+			P89078   First position C++
+			P57515   P0019. Rotacions cap a la dreta
+			P36668   Sum of squares C++
+			P71753   Maximum of each sequence C++
+			P27411   I-th (2) C++
+			P74859   I-th (4) C++
+			P73501   Increasing pairs C++
+			P90620   Pica d'Estats C++
+			P50095   Next prime number C++
+			P89851   Which is missing? C++
+			P35957   Middle digits
+			P81585   Equal to the sum of the rest (I) C++
+			P55307   P0003. Friend numbers
+			P72570   P0020. El rellotge de l'Amalia
+			P18203   Fermat's last theorem (2)
+			X06314   Similar sequences (2) C++
+			X58169   Positions of a maximum within two sequences
+P7 - Vectors 
+			P14130   Equal to the last one C++
+			P67268   Reverse of sequences C++
+			P71310   Scalar product C++
+			P50497   Is it a palindrome? C++
+			P87920   Equal to the sum of the rest (II) C++
+			P85480   Pairs of a sequence (1) C++
+			X20419   Average length and most frequent letter C++
+			P89407   F004B. Stable products
+			X41120   Vector of mountains
+			X09467   Ramps
+			P29428   F002A. Infixes
+			P12675   Common elements
+			X68753   Moda
+			X12559   Reorganize a vector
+Consolidation 2 -------------- 
+			P39225   I-th (1)
+			P65103   I-th (3)
+			P88790   Iterative greatest common divisor C++
+			P57846   Maximum of two integer numbers C++
+			P11725   Sequential search in an array C++
+			P11868   Control C402C C++
+			P11916   Approximation of e C++
+			P12061   Words between two words
+			P14410   P0017. Siracusa attacks again
+			P15030   Control C402E C++
+			P15714   P0013. Words between dashes
+			P17179   Statistical measures C++
+			P18298   Roman numbers (1)
+			P29253   Roman numbers (2)
+			P21895   P0004. Strobogrammatic numbers
+			P23001   Consecutive repeated words C++
+			P23793   Control C302D
+			P24301   Concatenation of vectors C++
+			P27152   The value of the letters
+			P28118   P0002. Commercial representative
+			P32149   P0001. Upward numbers
+			P33371   Caesar cipher
+			P35537   Increasing numbers
+			P36430   Fermat's last theorem (1)
+			P94857   Fermat's last theorem (3)
+			P37257   Function for three equal consecutive digits
+			P40129   ISBN codes
+			P40187   Control C302C
+			P92998   Girant una llista de paraules (3)
+			P42156   Girant una llista de paraules (5)
+			P42523   Recursive greatest common divisor
+			P42672   Mixing in base 2
+			P45102   Completely parenthesed expression
+			P46736   P0005. Hamming numbers
+			P48713   Primality
+			P89979   Lines in order (1)
+			P49603   Lines in order (2)
+			P50036   Horner scheme
+			P50279   Control C302E
+			P51153   Pairs of a sequence (2)
+			P53202   P0018. Azathoth numbers
+			P55760   Rebounds
+			P56059   A0001. Cool lines
+			P57404   Control C301A
+			P57443   Barcodes
+			P57882   Control C301C
+			P61930   Multiples of three
+			P63414   Counting frequences
+			P64555   F006B. Manhattan distance
+			P79860   Bars (2)
+			X33736   Narcissistic numbers
+			X85811   Write first-last and so on elements
+P8 - Multidimensional Arrays 
+			P28318   Rows and columns C++
+			P27498   Transposed matrix C++
+			P37390   Product of square matrices C++
+			X01236   Sopa de Lletres Fàcil C++
+			P18660   Word search C++
+			P45829   Fields
+			P92844   Bounding rectangle
+			P88905   Products of matrices C++
+			X17276   Increasing diagonals
+			P42596   Control C401B C++
+			X12847   Battleship (1) C++
+			P59112   Spirals
+			P67340   F010B. Threatening bishops
+P9 - Data Structures (tuples) 
+			P46254   Distance between two points C++
+			P11141   Students C++
+			P85696   Rational numbers (1) C++
+			P26141   Rational numbers (4) C++
+			P84786   Circles (1)
+			P52274   Circles (3)
+			P56635   Rectangles (1) C++
+			P82952   Rectangles (2)
+			P93090   F008B. Addition of fractions C++
+			P14343   Judge (1)
+			P81104   F001A. Students at the FIPS
+			P16175   F002B. Compressed vectors
+			P56358   Add and subtract one second C++
+			X82451   Point inside a rectangle
+			P24730   Nursery school
+			X30986   Sorting words
+			P30170   Repeated words
+			X96647   Normalized vectors
+			X96443   Hidden message
+P10 - Fundamental Algorithms & Advanced Exercises
+			P81966   Dichotomic search C++
+			P15549   Bubble sort C++
+			P98179   Insertion into a sorted table C++
+			P81602   Selection sort C++
+			P89124   Sieve of Eratosthenes C++
+			P46584   Array difference C++
+			P29094   Position of the maximum
+			P96529   Keys and parenthesis
+			P71916   Anagrams
+			P45484   Magic square
+			P26100   Game of life (1)
+			P25174   Many in line
+			P18992   Othello
+			P98343   Escrivint nombres amb lletres
+			P35971   F009A. Traversing matrices
+			P80868   P0014. Numerical valleys
+Consolidation 3 -------------- 
+			P39799   Circles (2)
+			P63370   Judge (2)
+			P43260   Cruz recursiva
+			P12284   Most frequent words C++
+			P12848   First palindromic numbers
+			P16072   Array intersection C++
+			P16425   Control C501A C++
+			P17652   Control C502E
+			P25090   F009B. The toys of the nursery
+			P25261   Sort
+			P25401   How many different?
+			P25992   Separated sort
+			P26068   Poker
+			P27283   Game of the life (2)
+			X13387   Simulating the Game of life
+			P26374   Sum of square matrices
+			P27526   Control C401C
+			P29428   F002A. Infixes
+			P30744   Robots (2)
+			P90532   Countries and provinces (1)
+			P34438   Countries and provinces (2)
+			P35246   Control C502D
+			P35487   F013A. Matagalls-Montserrat
+			P35941   The Gold-Bug
+			P41073   F013B. Codificació de Gödel
+			P41412   Insertion sort
+			P41641   Mutations of viruses
+			P44576   F010A. List of students
+			P44649   F012A. La vaca miop
+			P45616   Clock
+			P45681   F012B. Wall-E
+			P46903   Drawing parallelepipeds
+			P50354   Control C502F
+			P50726   F005A. Paraules de Fibonacci
+			P52205   Mergesort
+			P52233   Matrices of words
+			P84584   Rational numbers (2)
+			P53361   Rational numbers (3)
+			P54711   P0017. Maya numbers
+			P55043   Digital rivers
+			P55982   F006A. Can you add up?
+			P61473   Symmetric matrix
+			P64789   Control C401A
+			P68836   F008A. Badenic dates
+			P70093   Array merge
+			P71711   Zig-zag
+			P72452   F001B. Goldbach's Conjecture
+			P73160   Tennis tournament
+			P73468   Fire!
+			P74753   The lost sequence
+			P77227   Jump, jump
+			P77715   Pangrams
+			P82111   Word square
+			P84528   F007A. Do we play ships?
+			P88087   Control C501C
+			P89407   F004B. Stable products
+			P91748   Latin square
+			P96293   Control C501B
+			P96432   Secret Santa
+			P96460   F005B. Russian dolls
+			P96766   F011B. Palíndroms més llargs
+			P98770   F011A. Vectors simpàtics
+			X01715   Battleship (2)
+			X26415   Treasures' game
+			X31871   Simulating the chip-firing game
+			X44729   Stamps II
+			X47203   Consonant words' scale
+			X55865   Carambole (1)
+			X76804   Solar Wall-E
+			X97552   Rail fence cipher 
